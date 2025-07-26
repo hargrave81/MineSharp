@@ -13,7 +13,7 @@ using MineSharp.Physics.Input;
 using MineSharp.World;
 using MineSharp.World.Chunks;
 
-MineSharpBot.EnableDebugLogs(true);
+//MineSharpBot.EnableDebugLogs(true);
 
 var bot = await new BotBuilder()
     .Host("localhost")
